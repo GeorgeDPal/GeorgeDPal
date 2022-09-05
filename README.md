@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgeDPal,
+- 👋 Hi, I’m @GeorgeDPal
 - ✔️ I am a beginner in computer science.  
 - 👀 I’m interested in learning Artificial Intelligence, Machine learning and cloud based technology
 - 🌱 I’m currently learning DSA and Python
